@@ -26,7 +26,6 @@ void autho();
 int main()
 {
   SetConsoleTitle("Student list");
-  menu();
   autho();
   return 0;
 }
